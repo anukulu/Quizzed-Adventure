@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1502965972 source:f:\engg project\quizzed_adventure_final\game_objects.cpp
+	<SFML/Graphics.hpp>
+	"headers/game_objects.h"
+
+1502965434 f:\engg project\quizzed_adventure_final\headers\game_objects.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<sstream>
+
+1502967382 source:f:\engg project\quizzed_adventure_final\main.cpp
+	<iostream>
+	<sstream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	"game_objects.h"
+	"player.h"
+	"text.h"
+	"time_text.h"
+	"startwindow.h"
+	"gates.h"
+	"queAns.h"
+	"Exit.h"
+
+1502965648 f:\engg project\quizzed_adventure_final\headers\player.h
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1502965772 f:\engg project\quizzed_adventure_final\headers\text.h
+	<sstream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+
+1502965817 f:\engg project\quizzed_adventure_final\headers\time_text.h
+	<sstream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"player.h"
+
+1502965715 f:\engg project\quizzed_adventure_final\headers\startwindow.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	"gates.h"
+	"text.h"
+
+1502965607 f:\engg project\quizzed_adventure_final\headers\gates.h
+	<SFML/Graphics.hpp>
+
+1502965570 f:\engg project\quizzed_adventure_final\headers\exit.h
+	<SFML/Graphics.hpp>
+	"startwindow.h"
+
+1502966367 source:f:\engg project\quizzed_adventure_final\player.cpp
+	"headers/game_objects.h"
+	"headers/player.h"
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1502967294 f:\engg project\quizzed_adventure_final\headers\queans.h
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	"startwindow.h"
+	"player.h"
+
+1503067000 source:f:\group projects\1st year 2nd semester project quizzed adventure\quizzed_adventure_final (4)\quizzed_adventure_final\game_objects.cpp
+	<SFML/Graphics.hpp>
+	"headers/game_objects.h"
+
+1503067001 f:\group projects\1st year 2nd semester project quizzed adventure\quizzed_adventure_final (4)\quizzed_adventure_final\headers\game_objects.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<sstream>
+
+1503067001 source:f:\group projects\1st year 2nd semester project quizzed adventure\quizzed_adventure_final (4)\quizzed_adventure_final\main.cpp
+	<iostream>
+	<sstream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	"game_objects.h"
+	"player.h"
+	"text.h"
+	"time_text.h"
+	"startwindow.h"
+	"gates.h"
+	"queAns.h"
+	"Exit.h"
+
+1503067001 source:f:\group projects\1st year 2nd semester project quizzed adventure\quizzed_adventure_final (4)\quizzed_adventure_final\player.cpp
+	"headers/game_objects.h"
+	"headers/player.h"
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1503067001 f:\group projects\1st year 2nd semester project quizzed adventure\quizzed_adventure_final (4)\quizzed_adventure_final\headers\player.h
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1503067000 source:f:\projects\group projects\1st year 2nd semester project quizzed adventure\quizzed_adventure_final (4)\quizzed_adventure_final\game_objects.cpp
+	<SFML/Graphics.hpp>
+	"headers/game_objects.h"
+
+1503067001 f:\projects\group projects\1st year 2nd semester project quizzed adventure\quizzed_adventure_final (4)\quizzed_adventure_final\headers\game_objects.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<sstream>
+
+1503067001 source:f:\projects\group projects\1st year 2nd semester project quizzed adventure\quizzed_adventure_final (4)\quizzed_adventure_final\main.cpp
+	<iostream>
+	<sstream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	"game_objects.h"
+	"player.h"
+	"text.h"
+	"time_text.h"
+	"startwindow.h"
+	"gates.h"
+	"queAns.h"
+	"Exit.h"
+
+1503067001 source:f:\projects\group projects\1st year 2nd semester project quizzed adventure\quizzed_adventure_final (4)\quizzed_adventure_final\player.cpp
+	"headers/game_objects.h"
+	"headers/player.h"
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1503067001 f:\projects\group projects\1st year 2nd semester project quizzed adventure\quizzed_adventure_final (4)\quizzed_adventure_final\headers\player.h
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+

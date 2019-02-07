@@ -1,0 +1,14 @@
+
+
+1.Who was the inventor of Radio?
+a.Graham Bell     b.Marconi       
+c.T.A.Edison    d.Galillio
+2. The vector triple product can be simplified by the:
+a.CAB-BAC rule    b.BAC-CAB rule      
+c.BCA-ACB rule      d.ACB-BCA rule
+3.The curl is the measure of rotation of:
+a.vector field    b.electric field        
+c.magnetic field        d.electromagnetic field
+4.Inductance is the reciprocal of:
+a.vector          b.resistance            
+c.conductor             d.electromagnetic

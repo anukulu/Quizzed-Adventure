@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Quizzed_Adventure_Final" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Quizzed_Adventure_Final" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Quizzed_Adventure_Final" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="C:/Program Files/CodeBlocks/MinGW/sfml/include" />
+			<Add directory="F:/ENGG project/Quizzed_Adventure_Final/headers" />
+		</Compiler>
+		<Linker>
+			<Add library="sfml-graphics" />
+			<Add library="sfml-window" />
+			<Add library="sfml-system" />
+			<Add library="sfml-audio" />
+			<Add directory="C:/Program Files/CodeBlocks/MinGW/sfml/lib" />
+		</Linker>
+		<Unit filename="game_objects.cpp" />
+		<Unit filename="headers/Exit.h" />
+		<Unit filename="headers/QueAns.h" />
+		<Unit filename="headers/game_objects.h" />
+		<Unit filename="headers/gates.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/player.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/startWindow.h" />
+		<Unit filename="headers/text.h" />
+		<Unit filename="headers/time_text.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="player.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
